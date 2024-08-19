@@ -1,12 +1,11 @@
-# LeetCode Solutions
+# LeetCode
 
-This repository contains my solutions to LeetCode problems. With a primary focus on the daily & biweekly contest challenges.
+This repository contains my solutions to LeetCode problems.
 
-### File & Commits Naming Conventions
-- **Daily Problems:** `day-number-title`
-- **Contests Problems:** `contestNumber-questionNumber-title`
-- **Topics-based questions:** `number-title`
-- **Commits:** `[number] [timeBeats] [memoryBeats]`
+Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 
+ ## Made by 
+ - Tut: [GitHub](https://github.com/TutTrue) - [LinkedIn](https://www.linkedin.com/in/mahmoud-hamdy-8b6825245/)
+ - Hüsam: [GitHub](https://github.com/husamahmud) - [LinkedIn](https://www.linkedin.com/in/husamahmud/)
 
-*Feel free to share your thoughts, suggest improvements, or ask questions about any of my solutions.*
+ Happy coding! 🚀
