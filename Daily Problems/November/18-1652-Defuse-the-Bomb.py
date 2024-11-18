@@ -1,6 +1,5 @@
 class Solution:
     def decrypt(self, code: List[int], k: int) -> List[int]:
-        circ_code = code * 2
         size = len(code)
         def calc_sum(index, dir) -> int:
             cur_sum = 0
